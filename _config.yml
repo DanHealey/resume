@@ -21,7 +21,7 @@ resume_contact_telephone:       "(703) 283-4313"
 resume_contact_address:         ""
 
 resume_header_contact_info:     " (703) 283-4313 • danielhealey02@gmail.com"
-display_header_contact_info:    "false"
+display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Avid programmer in multiple languages with interests in software development, machine learning and computer vision.</p>"
 
@@ -29,7 +29,7 @@ resume_header_intro: "<p>Avid programmer in multiple languages with interests in
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+# resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
