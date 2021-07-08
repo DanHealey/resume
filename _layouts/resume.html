@@ -176,7 +176,7 @@
       {% endif %}
 
       {% if site.resume_section_languages %}
-      <!-- begin Interests -->
+      <!-- begin Languages -->
       <section class="content-section">
 
         <header class="section-header">
@@ -184,7 +184,7 @@
         </header>
 
         <div class="resume-item">
-          <ul class="resume-item-list">
+          <ul class="resume-item-list" style="font-size: 18px;">
             {% for language in site.data.languages %}
             <li>{{ language.description }}</li>
             {% endfor %}
@@ -192,7 +192,7 @@
         </div>
 
       </section>
-      <!-- end Interests -->
+      <!-- end Languages -->
       {% endif %}
 
       {% if site.resume_section_links %}

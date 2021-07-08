@@ -20,7 +20,7 @@ resume_contact_email:           "danielhealey02@gmail.com"
 resume_contact_telephone:       "(703) 283-4313"
 resume_contact_address:         ""
 
-resume_header_contact_info:     " (703) 283-4313 • danielhealey02@gmail.com"
+resume_header_contact_info:     "danielhealey02@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Avid programmer in multiple languages with interests in software development, machine learning and computer vision.</p>"
@@ -46,13 +46,13 @@ resume_section_languages:       true
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
   resume_github_url:            "https://github.com/DanHealey/"
-  # resume_twitter_url:           "http://twitter.com/jglovier"
-  # resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
-  # resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_twitter_url:           ""
+  # resume_dribbble_url:          ""
+  # resume_facebook_url:          ""
+  #resume_linkedin_url:          ""
+  # resume_instagram_url:         ""
+  # resume_website_url:           ""
+  # resume_medium_url:            ""
 resume_print_social_links:      true
 
 # Design settings
