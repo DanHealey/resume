@@ -1,12 +1,6 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Git/GitHub
+  description: Skilled with using Git/GitHub to effectively collaborate with others on project. Has some experience using GitHub Actions.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
-
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Docker
+  description: Has some experience using Docker. Able to accomplish common tasks, such as creating Dockerfiles, building images, and running containers.
