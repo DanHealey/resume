@@ -17,7 +17,7 @@ resume_title:                   "Software Developer"
 resume_contact_email:           "danielhealey02@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "(703) 283-4313"
+resume_contact_telephone:       ""
 resume_contact_address:         ""
 
 resume_header_contact_info:     "danielhealey02@gmail.com"
@@ -49,9 +49,9 @@ resume_social_links:
   # resume_twitter_url:           ""
   # resume_dribbble_url:          ""
   # resume_facebook_url:          ""
-  #resume_linkedin_url:          ""
+  resume_linkedin_url:          "https://www.linkedin.com/in/dan-healey-b739b1216/"
   # resume_instagram_url:         ""
-  # resume_website_url:           ""
+  resume_website_url:           "https://danhealey.github.io/resume/"
   # resume_medium_url:            ""
 resume_print_social_links:      true
 
