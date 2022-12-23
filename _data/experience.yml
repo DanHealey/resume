@@ -1,0 +1,25 @@
+# Jobs
+# Dexer
+- company: Dexer
+  position: Software Development Intern
+  duration: Jun, 2022 &mdash; present
+  summary: Developed user-facing changes to the company web application in React.js. Wrote an automated testing suite for regression testing using Cypress. Participated remotely in daily standups and the agile software development process. 
+
+# Fullstack @ Brown
+- company: Fullstack @ Brown
+  position: Frontend Developer
+  duration: Sept, 2021 &mdash; present
+  summary: Collaborated with teams of other developers on software projects that benefit university groups.
+
+
+# Eastbanc Technologies
+- company: Eastbanc Technologies
+  position: Software Engineering Intern
+  duration: Jun, 2021  &mdash; Aug, 2021
+  summary: Created static websites which served as instructions for use of two company products. Automated deployment of websites using Docker and GitHub Actions.
+
+# ASSIP
+- company: Aspiring Scientists Summer Internship Program
+  position: Research Intern
+  duration: Jun, 2020  &mdash; Aug, 2020
+  summary: Worked with a team of other interns researching the applications of natural language processing to plagiarism detection in written works. The team's research was published in George Mason University's Journal of Student-Scientists' Research.

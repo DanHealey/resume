@@ -1,0 +1,15 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# CS 1430 Final Project
+- project: Quality Control of Plant Cell Images
+  duration: Nov 2022 &mdash; Dec 2022
+  # url: "#"
+  description: Worked with a team to create a convolutional neural network model to classify plant cell images based on image quality with high accuracy. Work was detailed in a research paper and a presentation at a university symposium.
+
+
+# Senior Research Project
+- project: Pest Detection Software
+  duration: Sept 2021 &mdash; Jun 2021
+  # url: "#"
+  description: Created software to help homeowners lay effective traps for household pests using computer vision. Work was detailed in a final project report and a presentation.
